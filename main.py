@@ -40,5 +40,5 @@ new_data_frame.plot(kind='bar',
         y="salary",
         color='green')
 
-
+# to plot a graph
 plt.show()
